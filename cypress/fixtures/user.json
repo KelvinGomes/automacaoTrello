@@ -1,0 +1,28 @@
+{
+  "key": "73b4f20d4ee8546b5f6408d93ee617b9",
+  "token": "055ea11c531cabef3095cdbacad97aedec62ecdc3b1c2c5e23e3572f3a52096f",
+  "id": "60d753486bf0540491b6ed92",
+  "name": "Kelvin Gomes",
+  "idBoard": "60d753e3227b3622652dda85",
+  "idList": "60d753e3227b3622652dda86",
+  "IdMember": "60d753486bf0540491b6ed92",
+  "card":{
+    "name": "Teste de criação",
+    "desc":"Teste Sensedia",
+    "pos": "top",
+    "due": "07/30/2021",
+    "dueComplete": false,
+    "idLabel": "60d753e3d41eeff1fa4e6e21"
+  },
+  "updateCard":{
+    "name": "Teste de atualização",
+    "desc":"Teste Sensedia atualizado",
+    "pos": "top",
+    "due": "09/01/2021",
+    "dueComplete": false,
+    "idLabel": "60d753e3d41eeff1fa4e6e28",
+    "id": ""
+  },
+  "requisitionStatus": ""
+}
+
