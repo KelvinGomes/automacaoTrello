@@ -17,7 +17,4 @@ or
 npm run cypress:open
 ```
 
-After the Cypress window opens, just select a specific test suite for its execution or run all suites through the option:
-```sh
-run all specs
-```
+After the Cypress window opens, just select a specific test suite for its execution or run all suites through the option “Run all specs”
